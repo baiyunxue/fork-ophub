@@ -29,7 +29,7 @@ on:
         type: choice
         options:
           - all
-          - RAX3000M nand
+          - rax3000m
       openwrt_kernel:
         description: "Select kernel version"
         required: false
